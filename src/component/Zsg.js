@@ -37,6 +37,4 @@ class Zsg extends Component {
             </Fragment>
             )
     }
-
-
 }
